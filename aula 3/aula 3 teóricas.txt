@@ -1,0 +1,44 @@
+1- Diferencie “variável” de “constante” em programação.
+S: Constante é um basicamente um valor que se mantém fixo durante a exucução do código.
+   Variável é um valor que pode ser alderado durante a execução do código.
+
+
+2- O que é leitura (input) e saída (output) de dados?
+S: Input é a entrada de dados, output é a saída
+
+
+3- É possível afirmar que código-fonte e algoritmo são a mesma coisa? Justifique e, se necessário, diferencie ambos.
+S: Não, o código fonte é criado após a codificação de um algorítmo em alguma linguagem.
+
+
+4- O que significa o termo “atribuição” na programação?
+S: Seria quando você "insere" um valor em alguma variável.
+
+
+5-O que significa o termo “concatenar” na programação?
+S: É basicamente colocar várias strings juntas com o operador +
+
+
+6- O que significa “incrementar” ou “decrementar” na programação?
+S: Incrementar: aumentar em extamente em 1 o valor de uma variável.
+   Decrementar: diminuir em exatamente 1 o valor de uma variável.
+
+
+7- Para que servem laços de repetição?
+S: Laços de repetição servem para executar uma determinada linha de código um determinado número de vezes.
+
+
+8- Para que servem funções (também conhecidas como “métodos”)?
+S: Servem para determinar as ações que um objeto de determinada classe é capaz de realizar e, paralelamente, para 
+organizar mais o código.
+
+
+9- O que é um compilador de código-fonte?
+S: Seria um programa capaz de interpretar determinada linguagem e convertê-la em linguagem de máquina
+
+
+10- O que é escopo em programação? E o que significa quando dizemos que uma variável é de escopo?
+S: Escopo seria o contexto onde partes de determinado programa, ou classes, são visíveis.
+
+11-O que significam os termos “alfanumérico” e “numérico” quando se fala de tipos de variáveis?
+S: Numérico seriam os dígitos de 0 a 9 e alfanumerico seriam digitos,letras e caracteres especiais.
