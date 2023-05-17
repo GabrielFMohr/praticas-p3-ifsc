@@ -12,14 +12,17 @@ public class MainProduto {
 		a.setNome("Tody");
 		a.setCodBarras((long) 000000001);
 		a.setPreco(3.68);
+		a.setFornecedor("Eu");
 		
 		b.setNome("Nescau");
 		b.setCodBarras((long) 000000002);
 		b.setPreco(5.65);
+		b.setFornecedor("Ele");
 		
 		c.setNome("Nesquik");
 		c.setCodBarras((long) 000000003);
 		c.setPreco(12.69);
+		c.setFornecedor("Você");
 		
 		folheto.add(a);
 		folheto.add(b);
@@ -31,6 +34,8 @@ public class MainProduto {
 			System.out.println(folheto.get(n).getNome());
 			System.out.println(folheto.get(n).getCodBarras());
 			System.out.println(folheto.get(n).getPreco());
+			System.out.println(folheto.get(n).getFornecedor());
+			
 		}
 
 	}
